@@ -7,4 +7,5 @@ for i in 1..30
         puts "Buzz!"
    else
         puts i
-   end 
+   end
+end 
